@@ -1,2 +1,2 @@
 # Tree-Species-Classification
-In the README
+In the README, this were i tell people ...
